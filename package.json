@@ -1,5 +1,5 @@
 {
-  "name": "yandex-dialogs-sdk",
+  "name": "@kashadeveloper/yandex-dialogs-sdk",
   "version": "2.2.0",
   "description": "Build your skill for Alice with ease.",
   "main": "dist/index.js",
@@ -76,5 +76,9 @@
     "tslint": "^5.10.0",
     "typescript": "^3.9.10",
     "vrsource-tslint-rules": "^5.8.2"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "tests"
   }
 }
