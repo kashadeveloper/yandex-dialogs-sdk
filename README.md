@@ -1,8 +1,9 @@
-# yandex-dialogs-sdk
+# yandex-dialogs-sdk-fork
 [![npm version](https://badge.fury.io/js/yandex-dialogs-sdk.svg)](https://badge.fury.io/js/yandex-dialogs-sdk)
 
 *Note: this is an open-source project. It is not affiliated with Yandex LLC.*
-*Note 2: this is fork of [original lib](https://github.com/fletcherist/yandex-dialogs-sdk)
+
+*Note 2: this is fork of [original lib](https://github.com/fletcherist/yandex-dialogs-sdk)*
 
 Tiny zen library to create skills for Yandex.Alice
 
